@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceMeter</string>
+    <string name="record_button_start">START RECORDING</string>
+    <string name="record_button_stop">STOP RECORDING</string>
+</resources>
